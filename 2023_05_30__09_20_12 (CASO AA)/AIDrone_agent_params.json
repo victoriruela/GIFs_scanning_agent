@@ -1,0 +1,1 @@
+{"init_height": 8, "init_width": 8, "zoom_val": 14, "border_val": 0.45, "connect_areas": true, "robot_occupancy": 5, "one_step_duration": 500, "epsilon": 0.01, "epsilon_decay": 0.995, "learning_rate": 0.001, "mem_size": 3000, "batch_size": 64, "burn_in": 100, "gamma": 0.99, "dnn_upd": 250, "dnn_sync": 1500, "max_episodes": 2000}
